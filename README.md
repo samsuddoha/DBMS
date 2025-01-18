@@ -1,5 +1,5 @@
-# Database Management Systems (CSE-2101)  
-### Course for Spring 2025
+# Database Management Systems (CSE-2101 & CSE-2102)  
+### Undergraduate Course for Spring 2025
 
 Welcome to the **Database Management Systems (DBMS)** course. This course is designed to provide a comprehensive understanding of database systems, their design, implementation, and real-world applications.
 
@@ -64,17 +64,17 @@ By the end of this course, students will be able to:
 ## Course Resources
 
 ### Textbooks
-- **"Database System Concepts"** by Silberschatz, Korth, and Sudarshan
-- **"Fundamentals of Database Systems"** by Elmasri and Navathe
+- **"[Database System Concepts](https://www.db-book.com/)"** by Silberschatz, Korth, and Sudarshan
+- **"[Fundamentals of Database Systems](https://github.com/mariush2/tdt4145/blob/master/Fundamentals%20of%20Database%20Systems%20(7th%20edition).pdf)"** by Elmasri and Navathe
 
 ### Online Resources
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 - [Khan Academy: Introduction to Databases](https://www.khanacademy.org/computing/computer-programming/sql)
 
 ### Tools
-- **MySQL Workbench**: For SQL practice and database design
-- **phpMyAdmin**: Web-based database management
-- **DBeaver**: Multi-platform database tool
+- **[MySQL Workbench](https://www.mysql.com/products/workbench/)**: For SQL practice and database design
+- **phpMyAdmin**: Web-based database management (Download [XAMPP](https://www.apachefriends.org/download.html) and Install)
+- **[DBeaver](https://dbeaver.io/)**: Multi-platform database tool
 
 ---
 
