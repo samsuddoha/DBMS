@@ -7,8 +7,8 @@
 | Lectures and Topics | No of Sessions | Contents | Resources |
 |---------------------|----------------|----------|-----------|
 | Lecture 1 (DBMS Concepts)  | 2 | Data, Info, DB, DBMS, Characteristics of DBMS, Uses of DBMS, Applications of DBMS, Architecture of DBMS (3-tier), Types of DBMS, DB Administrator and Roles   | CHapter 1 & [Slide](https://github.com/samsuddoha/DBMS/tree/main/Lecture%201%20-%20intro)   |
-| Lecture 2 (Relational Model) | Intro to RM, Structure of Relational Table, Entity and Schema, Database Instance and Schema, Keys   | Chapter 2 & [Slide](https://github.com/samsuddoha/DBMS/tree/main/Lecture%202%20-%20Relational%20Model)   |
-| Lecture 3 (Database Design)  | Concepts of DB Design (Entity, Attributes, Relationships- Degree, Types, Constraints: Mapping Cardinalities & Participations)  | Chapter 6 & [Slide](https://github.com/samsuddoha/DBMS/tree/main/Lecture%203%20-%20Database%20Design)  |
+| Lecture 2 (Relational Model) | 1 | Intro to RM, Structure of Relational Table, Entity and Schema, Database Instance and Schema, Keys   | Chapter 2 & [Slide](https://github.com/samsuddoha/DBMS/tree/main/Lecture%202%20-%20Relational%20Model)   |
+| Lecture 3 (Database Design)  | 5| Concepts of DB Design (Entity, Attributes, Relationships- Degree, Types, Constraints: Mapping Cardinalities & Participations)  | Chapter 6 & [Slide](https://github.com/samsuddoha/DBMS/tree/main/Lecture%203%20-%20Database%20Design)  |
 
 
 ---
