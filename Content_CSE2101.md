@@ -18,6 +18,6 @@
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
 |Class Test 1| 5%| 02 March | Lecture 1, 2, Part of 3 | N/A|
-|Mid Term 1| 20%| 12th March (10.30am) | Lecture 1 to 3 | N/A|
+|<mark>Mid Term 1 </mark>| 20%| <mark>12th March (10.30am) </mark>| Lecture 1 to 3 | N/A|
 |Assignment| 5% | 12th March (10.30am) | Database Design ([Assignment](https://github.com/samsuddoha/DBMS/blob/main/Assignment/Assignment%201-ERD.pdf)) | [Report Template](https://github.com/samsuddoha/DBMS/blob/main/Assignment/ERD%20Demp%20Report.pdf)|
 |Class Test 2| 5% | Will be announced Soon | Will be announced Soon | Will be announced Soon|
