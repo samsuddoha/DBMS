@@ -2,10 +2,10 @@
 
 
 ### Resources
- - Basic Learning [W3Schools](https://www.w3schools.com/sql/default.asp)
- - Pratice SQL Query [W3Resource](https://www.w3resource.com/sql-exercises/)
+ - **Basic Learning: [W3Schools](https://www.w3schools.com/sql/default.asp)**
+ - **Pratice SQL Query [W3Resource](https://www.w3resource.com/sql-exercises/)**
 
-### Contents
+### Contents of MySQL & SQL
 
 ---
 
