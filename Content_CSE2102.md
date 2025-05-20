@@ -1,4 +1,10 @@
-# Database Management Systems Lab.(CSE-2102)  
+# Database Management Systems Lab.(CSE-2102) 
+
+
+### Resources
+ - Basic Learning [W3Schools](https://www.w3schools.com/sql/default.asp)
+ - Pratice SQL Query [W3Resource](https://www.w3resource.com/sql-exercises/)
+
 ### Contents
 
 ---
@@ -14,7 +20,6 @@
 | <b>Lecture 5</b> <br> (SQL)  | 2| <ul><li>ORDER BY, LIMIT, OFFSET </li> <li>LIKE Operators </li> <li> Wildcards </li> <li> Aliases </li> <li>String Functions </li> <li>IN, BETWEEN Operators</li> </ul>  | [Lecture 5 - Slide](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Lecture/5.%20Lecture%204%20(Data%20Science%20basic).pdf)  |
 | <b>Lecture 6</b> <br> (SQL)  | 2| <ul><li>Joins </li> <li> Union</li><li>Practices </li> </ul>  | [Lecture 6 - Slide](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Lecture/6.%20Lecture%206.pptx)  |
 | <b>Lecture 7</b> <br> (SQL)  | 2| <ul><li>Group by </li> <li> Having </li> </ul>  | [Lecture 7 - Slide](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Lecture/7.%20Lecture%207.pptx)  |
-
 | <b>Lecture 8</b> <br> (Practice)  | 2| <ul><li>Create Exam Managements System DB </li> <li> Solve Query </li> </ul>  | NA  |
 
 ### Exams
@@ -30,3 +35,5 @@
 |Mid Term 2| - | TBA | TBA | TBA|
 |Final Exam| - | TBA | TBA | TBA|
 |Project| - | TBA | TBA | TBA|
+
+
