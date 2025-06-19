@@ -29,5 +29,5 @@
 |Assignment| 5% | 12th March (10.30am) | Database Design ([Assignment](https://github.com/samsuddoha/DBMS/blob/main/Assignment/Assignment%201-ERD.pdf)) | [Report Template](https://github.com/samsuddoha/DBMS/blob/main/Assignment/ERD%20Demp%20Report.pdf)|
 |<mark>Class Test 2 </mark>| 5% | 25 June (Class time) | Lecture 5 (SQL) | Chapter (3,4 & 5)|
 |<mark>Mid 2 (Supplymentary <br> (if required)) </mark>| 20% | 26 June (11.00am) | Lecture 4 (Chapter 7), 6 (Chapter 17), 7 (Chapter 14) | Lectures from Contents|
-|**Final Exam**| 60% | July (Expected) | All lectures & Books | [Sample Questions]()|
+|**Final Exam**| 60% | July (Expected) | All lectures & Books | [Sample Questions](https://github.com/samsuddoha/DBMS/tree/main/Sample%20Questions)|
 
