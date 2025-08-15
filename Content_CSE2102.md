@@ -34,7 +34,8 @@
 |Assignment| 5% | TBA | TBA | TBA|
 |Class Test 2| 5% | TBA | TBA | TBA|
 |Mid Term 2| - | TBA | TBA | TBA|
-|Final Exam| - | TBA | TBA | TBA|
-|Project| - | TBA | TBA | TBA|
+|Final Exam| 30% | 21 August | All Lectures | N/A|
+|Viva| 10% | 21 August | All Lectures | N/A|
+|Project| 20% | 24 August | TBA | TBA|
 
 
