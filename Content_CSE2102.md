@@ -30,9 +30,9 @@
 |-----------|-------|-----------------|------------|---------|
 |Class Test 1| 5%| - | Lecture 1 | N/A|
 |Homework 1| -| - | Solving SQL | [Problem Set](https://github.com/samsuddoha/DBMS/tree/main/DBMS%20LAB/Lecture/Homework)|
-|<mark>Mid Term 1 </mark>| 20%| <mark> 25 May (10.00am) </mark>| Lecture 2 to 8 | <ul><li>Written Quiz (MCQ & Short Question)</li> <li>Lab (Solving SQL Query)</li>|
+|Mid Term 1| 20%| 25 May (10.00am)| Lecture 2 to 8 | <ul><li>Written Quiz (MCQ & Short Question)</li> <li>Lab (Solving SQL Query)</li>|
 |Assignment| 5% | TBA | TBA | TBA|
-|Class Test 2| 5% | TBA | TBA | TBA|
+|<mark>Lab Test 2 </mark>| 10% | 17 August | Designing and Implementing Database | TBA|
 |Mid Term 2| - | TBA | TBA | TBA|
 |Final Exam| 30% | 21 August | All Lectures | N/A|
 |Viva| 10% | 21 August | All Lectures | N/A|
