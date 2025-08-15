@@ -32,7 +32,7 @@
 |Homework 1| -| - | Solving SQL | [Problem Set](https://github.com/samsuddoha/DBMS/tree/main/DBMS%20LAB/Lecture/Homework)|
 |Mid Term 1| 20%| 25 May (10.00am)| Lecture 2 to 8 | <ul><li>Written Quiz (MCQ & Short Question)</li> <li>Lab (Solving SQL Query)</li>|
 |Assignment| 5% | TBA | TBA | TBA|
-|<mark>Lab Test 2 </mark>| 10% | 17 August | Designing and Implementing Database | TBA|
+|<mark>Lab Test 2 </mark>| 10% | 17 August | Designing and Implementing Database | [Demo Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Lab%20Test%20Demo%20Q.pdf)|
 |Mid Term 2| - | TBA | TBA | TBA|
 |Final Exam| 30% | 21 August | All Lectures | N/A|
 |Viva| 10% | 21 August | All Lectures | N/A|
