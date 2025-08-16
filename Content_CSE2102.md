@@ -36,6 +36,6 @@
 |Mid Term 2| - | TBA | TBA | TBA|
 |Final Exam| 30% | 21 August | All Lectures | Sample Questions: [Part A](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20A%20-.pdf) & [Part B](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20B.pdf)|
 |Viva| 10% | 21 August | All Lectures | N/A|
-|Project| 20% | 24 August | TBA | TBA|
+|Project| 20% | 24 August | TBA | [Project Repot Demo](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Project/Project%20Report%20Demo.pdf)|
 
 
