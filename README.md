@@ -64,7 +64,7 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 ## 💻 Tools
 
 - **[MySQL Workbench](https://www.mysql.com/products/workbench/)**: For SQL practice and database design
-- **phpMyAdmin**: Web-based database management (Download [XAMPP](https://www.apachefriends.org/download.html) and Install)
+- **XAMPP/WAMPP**: Download [XAMPP](https://www.apachefriends.org/download.html) and Install [[Video](https://www.youtube.com/watch?v=UjAbsItMPRY)]
 - **[DBeaver](https://dbeaver.io/)**: Multi-platform database tool
 - **VS Code / Notepad++**:
 
