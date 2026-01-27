@@ -1,19 +1,7 @@
 # Database Management Systems (CSE-2101 & CSE-2102)  
-### Undergraduate Course for Spring 2025
+### Undergraduate Course
 
 Welcome to the **Database Management Systems (DBMS)** course. This course is designed to provide a comprehensive understanding of database systems, their design, implementation, and real-world applications.
-
----
-
-## Course Details
-
-- **Course Code & Title**: CSE-2101: Database Management Systems 
-- **Course Code & Title**: CSE-2102: Database Management Systems Lab 
- 
-## Class Schedule
-
-- **Sunday (2.00pm-3.00pm):** CSE-2102
-- **Wednesday (10.30am-1.30pm)**: CSE-2101
 
 ---
 
@@ -27,10 +15,8 @@ By the end of this course, students will be able to:
 4. Understand normalization techniques and functional dependencies.
 5. Gain insights into advanced topics like transaction management, indexing, and database security.
 
----
 
-## Topics Covered
-
+## 📋 Course Topics
 1. **Introduction to Databases**  
    - Data, database, and DBMS concepts
    - Advantages of using a DBMS
@@ -59,40 +45,41 @@ By the end of this course, students will be able to:
 
 8. **Database Security and Backup**
 
----
+## 📄 Course Materials & Information
 
-## Course Resources
+You can find the **detailed course contents**, **marks distribution**, **assignments with instructions**, **exam schedule**, and **course resources** at the following links:
 
-### Textbooks
-- **"[Database System Concepts](https://www.db-book.com/)"** by Silberschatz, Korth, and Sudarshan
-- **"[Fundamentals of Database Systems](https://github.com/mariush2/tdt4145/blob/master/Fundamentals%20of%20Database%20Systems%20(7th%20edition).pdf)"** by Elmasri and Navathe
+- [CSE-2101: Database Management Systems (Theory)](https://github.com/samsuddoha/DBMS/blob/main/Content_CSE2101.md)
+- [CSE-2102: Database Management Systems Lab. (Lab)](https://github.com/samsuddoha/DBMS/blob/main/Content_CSE2102.md)
+
+## 📚 Text Books
+
+- **"[Database System Concepts](https://www.db-book.com/)"** by Silberschatz, Korth, and Sudarshan [PDF]()
+- **"[Fundamentals of Database Systems](https://github.com/mariush2/tdt4145/blob/master/Fundamentals%20of%20Database%20Systems%20(7th%20edition).pdf)"** by Elmasri and Navathe [PDF]()
 
 ### Online Resources
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 - [Khan Academy: Introduction to Databases](https://www.khanacademy.org/computing/computer-programming/sql)
 
-### Tools
+## 💻 Tools
+
 - **[MySQL Workbench](https://www.mysql.com/products/workbench/)**: For SQL practice and database design
 - **phpMyAdmin**: Web-based database management (Download [XAMPP](https://www.apachefriends.org/download.html) and Install)
 - **[DBeaver](https://dbeaver.io/)**: Multi-platform database tool
-
----
-
-## Assignments and Evaluation
+- **VS Code / Notepad++**:
 
 
----
+## 📅 Class Routine
+| Course   | Day        | Time             | Room |
+|----------|-----------|------------------|------|
+| CSE-2101 | Sunday     | 10:30 AM - 1:30 PM| C2   |
+| CSE-210201 | Tuesday  | 10:30 AM - 1:30 PM | C2 |
 
+## 👨‍🏫 Course Instructor
+If you need any assistance or have queries regarding the course, feel free to contact:
 
-
-## Course Instructor
-
-For queries, please reach out to:  
-- **Instructor**: Md Samsuddoha, Assistant Professor, Dept of CSE, BU  
-- **Email**: sams.csebu@gmail.com
-
----
-
-Happy Learning! 🚀
-
-
+**Md Samsuddoha**  
+Assistant Professor, Department of CSE  <br>
+University of Barishal <br>
+Room No: 1500 <br>
+📧 Email: [msamsuddoha@bu.ac.bd](mailto:msamsuddoha@bu.ac.bd)
