@@ -24,10 +24,10 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Class Test 1| 5%| 02 March | Lecture 1, 2, Part of 3 | N/A|
-|Mid Term 1| 20%| 12th March (10.30am)| Lecture 1 to 3 | N/A|
-|Assignment| 5% | 12th March (10.30am) | Database Design ([Assignment](https://github.com/samsuddoha/DBMS/blob/main/Assignment/Assignment%201-ERD.pdf)) | [Report Template](https://github.com/samsuddoha/DBMS/blob/main/Assignment/ERD%20Demp%20Report.pdf)|
-|Class Test 2| 5% | 25 June (Class time) | Lecture 5 (SQL) | Chapter (3,4 & 5)|
-|<mark>Midterm 2 </mark>| 20% | 02 July (11.45am) | Lecture 4 (Chapter 7), 6 (Chapter 17), 7 (Chapter 14) | Lectures from Contents|
-|**Final Exam**| 60% | July (Expected) | All lectures & Books | [Sample Questions](https://github.com/samsuddoha/DBMS/tree/main/Sample%20Questions)|
+|Class Test 1| 5%| - | Lecture 1, 2, Part of 3 | N/A|
+|Mid Term 1| 20%| -| Lecture 1 to 3 | N/A|
+|Assignment| 5% | - | Database Design ([Assignment](https://github.com/samsuddoha/DBMS/blob/main/Assignment/Assignment%201-ERD.pdf)) | [Report Template](https://github.com/samsuddoha/DBMS/blob/main/Assignment/ERD%20Demp%20Report.pdf)|
+|Class Test 2| 5% | - | Lecture 5 (SQL) | Chapter (3,4 & 5)|
+|Midterm 2| 20% | - | Lecture 4 (Chapter 7), 6 (Chapter 17), 7 (Chapter 14) | Lectures from Contents|
+|**Final Exam**| 60% | - | All lectures & Books | [Sample Questions](https://github.com/samsuddoha/DBMS/tree/main/Sample%20Questions)|
 

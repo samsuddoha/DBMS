@@ -30,12 +30,12 @@
 |-----------|-------|-----------------|------------|---------|
 |Class Test 1| 5%| - | Lecture 1 | N/A|
 |Homework 1| -| - | Solving SQL | [Problem Set](https://github.com/samsuddoha/DBMS/tree/main/DBMS%20LAB/Lecture/Homework)|
-|Mid Term 1| 20%| 25 May (10.00am)| Lecture 2 to 8 | <ul><li>Written Quiz (MCQ & Short Question)</li> <li>Lab (Solving SQL Query)</li>|
+|Mid Term 1| 20%| -| Lecture 2 to 8 | <ul><li>Written Quiz (MCQ & Short Question)</li> <li>Lab (Solving SQL Query)</li>|
 |Assignment| 5% | TBA | TBA | TBA|
-|<mark>Lab Test 2 </mark>| 10% | 17 August | Designing and Implementing Database | [Demo Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Lab%20Test%20Demo%20Q.pdf)|
+|Lab Test 2| 10% | - | Designing and Implementing Database | [Demo Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Lab%20Test%20Demo%20Q.pdf)|
 |Mid Term 2| - | TBA | TBA | TBA|
-|Final Exam| 30% | 21 August | All Lectures | Sample Questions: [Part A](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20A%20-.pdf) & [Part B](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20B.pdf)|
-|Viva| 10% | 21 August | All Lectures | N/A|
-|Project| 20% | 24 August | Choose an idea that is suitable for DBMS project | [Project Idea](https://docs.google.com/spreadsheets/d/12VLKIOJCFoacbW0dEoxdzng-SXE3fpiI/edit?usp=sharing&ouid=113615615478572276576&rtpof=true&sd=true) <br>[Project Repot Demo](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Project/Project%20Report%20Demo.pdf)|
+|Final Exam| 30% | - | All Lectures | Sample Questions: [Part A](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20A%20-.pdf) & [Part B](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20B.pdf)|
+|Viva| 10% | - | All Lectures | N/A|
+|Project| 20% | - | Choose an idea that is suitable for DBMS project | [Project Repot Demo](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Project/Project%20Report%20Demo.pdf)|
 
 
