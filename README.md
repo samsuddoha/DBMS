@@ -66,7 +66,7 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 - **[MySQL Workbench](https://www.mysql.com/products/workbench/)**: For SQL practice and database design
 - **XAMPP/WAMPP**: Download [XAMPP](https://www.apachefriends.org/download.html) and Install [[Video](https://www.youtube.com/watch?v=UjAbsItMPRY)]
 - **[DBeaver](https://dbeaver.io/)**: Multi-platform database tool
-- **VS Code / Notepad++**:
+- **[VS Code](https://code.visualstudio.com/download) / [Notepad++](https://notepad-plus-plus.org/downloads/)**: For SQL writing
 
 
 ## 📅 Class Routine
