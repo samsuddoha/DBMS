@@ -1,5 +1,5 @@
 # Database Management Systems (CSE-2101 & CSE-2102)  
-### Undergraduate Course
+### Undergraduate Course, Spring 2026
 
 Welcome to the **Database Management Systems (DBMS)** course. This course is designed to provide a comprehensive understanding of database systems, their design, implementation, and real-world applications.
 
