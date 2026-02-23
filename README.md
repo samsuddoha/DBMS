@@ -54,7 +54,7 @@ You can find the **detailed course contents**, **marks distribution**, **assignm
 
 ## 📚 Text Books
 
-- **"[Database System Concepts](https://www.db-book.com/)"** by Silberschatz, Korth, and Sudarshan [PDF]()
+- **"[Database System Concepts](https://www.db-book.com/)"** by Silberschatz, Korth, and Sudarshan [PDF](https://github.com/samsuddoha/DBMS/blob/main/Books/7th%20ED_Abraham%20Silberschatz%2C%20Henry%20Korth%20and%20S.%20Sudarshan%20-%20Database%20System%20Concepts.%207-McGraw-Hill%20Education%20(2020).pdf)
 - **"[Fundamentals of Database Systems](https://github.com/mariush2/tdt4145/blob/master/Fundamentals%20of%20Database%20Systems%20(7th%20edition).pdf)"** by Elmasri and Navathe [PDF]()
 
 ### Online Resources
