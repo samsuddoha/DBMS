@@ -28,7 +28,7 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Lab Test| 10%| - | Implementing DB using phyMyadmin | [Sample Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Sample%20Question.pdf)|
+|<mark>Lab Test</mark>| 10%| 19 April (9.00am-10.00am) <br> [Room: 6613] | Implementing DB using phyMyadmin | [Sample Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Sample%20Question.pdf)|
 |Homework 1| -| - | Solving SQL | [Problem Set](https://github.com/samsuddoha/DBMS/tree/main/DBMS%20LAB/Lecture/Homework)|
 |Mid Term 1| 20%| -| Lecture 2 to 8 | <ul><li>Written Quiz (MCQ & Short Question)</li> <li>Lab (Solving SQL Query)</li>|
 |Assignment| 5% | TBA | TBA | TBA|
