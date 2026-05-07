@@ -48,8 +48,9 @@ CREATE TABLE tournament(
      );
 
      --INSERT DATA into table
-iNSERT INTO organizer(organizer_id, organizer_name, phone, email, address)
-VALUES(NULL, 'CSE Sports Club', '09876543', 'cse@gmail.com', 'BU');
+     
+INSERT INTO organizer(organizer_id, organizer_name, phone, email, address)
+VALUES(NULL, , '09876543', 'cse@gmail.com', 'BU');
 
 --multiple data
 INSERT INTO organizer(organizer_id, organizer_name, phone, email, address)
@@ -68,10 +69,13 @@ DELETE FROM organizer WHERE phone='';
 UPDATE organizer
  SET organizer_name = 'SKY Sports Club' 
  WHERE organizer_id = 3;
-
-
+ 
  UPDATE organizer
  SET organizer_name = 'SKY Sports Club' 
  WHERE address = 'BU';
 
---SELECT
+--Show the name and phone number of organizer who organized the ICDR tournament.
+--retrieve-- command --> SELECT
+SELECT organizer.organizer_name, organizer.phone FROM organizer, tournament
+WHERE organizer.organizer_id=tournament.tournament_id and
+tournament.tournament_name='IDCR';
