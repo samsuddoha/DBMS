@@ -34,7 +34,7 @@ CREATE TABLE organizer(
      address VARCHAR(200) NOT NULL
      );
 --drop table
---drop table oranizer;
+--drop table organizer;
 
 CREATE TABLE tournament(
     tournament_id INT PRIMARY KEY AUTO_INCREMENT,
@@ -48,7 +48,7 @@ CREATE TABLE tournament(
      );
 
      --INSERT DATA into table
-INSERT INTO organizer(organizer_id, organizer_name, phone, email, address)
+iNSERT INTO organizer(organizer_id, organizer_name, phone, email, address)
 VALUES(NULL, 'CSE Sports Club', '09876543', 'cse@gmail.com', 'BU');
 
 --multiple data
@@ -59,3 +59,19 @@ VALUES(NULL, 'BU Sports Club', '09876544', 'bu@gmail.com', 'BU'),
 
 INSERT INTO tournament(tournament_id, tournament_name, description, format, start_date, end_date, organizer_id)
 VALUES(NULL, 'Short CT', 'ABCD', 'SHORT', '2026-05-10','2026-05-20', 1);
+
+--delete data
+DELETE FROM organizer WHERE organizer_id = 4; ---delete any data using pk
+DELETE FROM organizer WHERE phone='';
+
+--update
+UPDATE organizer
+ SET organizer_name = 'SKY Sports Club' 
+ WHERE organizer_id = 3;
+
+
+ UPDATE organizer
+ SET organizer_name = 'SKY Sports Club' 
+ WHERE address = 'BU';
+
+--SELECT
