@@ -159,7 +159,10 @@ WHERE role='Batsman' AND batting_style='Right Hand';
 --Practice--------
 ---------------
 --Show the list of all organizer who are from dhaka or khulna.
-
+SELECT * FROM Organizer WHERE address='Dhaka' OR address='Khulna';
 --Show the list of all fast bowlers.
+SELECT * FROM Player WHERE role='Bowler' AND bowling_style='Fast';
 --Find the umpires who are from India having more than 5 years of experieces.
+SELECT * FROM Umpire WHERE country='India' AND experience>=5;
 --Find the team that name start with letter T.
+SELECT * FROM Team WHERE team_name LIKE 'T%';
