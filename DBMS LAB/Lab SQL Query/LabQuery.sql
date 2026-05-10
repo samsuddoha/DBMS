@@ -102,3 +102,64 @@ tournament.tournament_name='IDCR';
 --practice creating db tms using SQL command
 --study data types, constraints
 --explore w3schools website
+
+--------------------------------
+------LAB3---------
+------10May 26-------
+-------------------------
+
+--SELECT
+------------------
+SELECT tournament_name, start_date, end_date FROM Tournament;
+
+--Q1: show the player name, jersey number and playing role. 
+SELECT player_name AS 'PLayer Name', jersey_no AS JerseyNumber, role AS 'Playing Role' FROM Player;
+
+--ALIAS --> RENAME
+------------------------
+--select all
+SELECT * FROM PLayer;
+
+
+--Q2: find the name, contact number and address of all organizers;
+SELECT organizer_name, phone, address FROm Organizer;
+
+---DISTINCT
+--------------------
+SELECT COUNT(DISTINCT address) FROM Organizer;
+
+--Q3: Show the playing roles for players.
+
+--Aggregate Function--> 
+COUNT()
+MIN()
+MAX()
+SUM()
+AVG()
+
+SELECT MAX(points) FROM Points_Table;
+
+-----------
+--WHERE--------
+---------------------
+--Q4: Find the list of all batsman;
+SELECT * FROM Player 
+WHERE role='Batsman';
+
+--Q5: Find the list of all right handed batsman;
+SELECT * FROM Player 
+WHERE role='Batsman' AND batting_style='Right Hand';
+
+---OPERATORS---
+-----------------
+--AND, OR, NOT
+--LIKE OPERATORS
+-- Assignment, comparison
+
+--Practice--------
+---------------
+--Show the list of all organizer who are from dhaka or khulna.
+
+--Show the list of all fast bowlers.
+--Find the umpires who are from India having more than 5 years of experieces.
+--Find the team that name start with letter T.
