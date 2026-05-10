@@ -164,5 +164,14 @@ SELECT * FROM Organizer WHERE address='Dhaka' OR address='Khulna';
 SELECT * FROM Player WHERE role='Bowler' AND bowling_style='Fast';
 --Find the umpires who are from India having more than 5 years of experieces.
 SELECT * FROM Umpire WHERE country='India' AND experience>=5;
---Find the team that name start with letter T.
+--Find the team that name start with letter T.  
 SELECT * FROM Team WHERE team_name LIKE 'T%';
+
+---ORDER BY, LIMIT, OFFSET-----
+----------------------------
+--Show the team list in a sorted order according to their name in alaphabetically.
+SELECT * FROM Team ORDER By team_name ASC;
+--show the umpire list sorted according to their experience (max to min);
+SELECT * FROM Umpire ORDER BY experience DESC LIMIT 3; 
+--person having 3rd in experiences
+SELECT * FROM Umpire ORDER BY experience DESC LIMIT 1 OFFSET 2; 
