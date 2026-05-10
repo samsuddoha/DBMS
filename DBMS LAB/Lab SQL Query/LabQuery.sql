@@ -175,3 +175,13 @@ SELECT * FROM Team ORDER By team_name ASC;
 SELECT * FROM Umpire ORDER BY experience DESC LIMIT 3; 
 --person having 3rd in experiences
 SELECT * FROM Umpire ORDER BY experience DESC LIMIT 1 OFFSET 2; 
+
+--GROUP BY, HAVING---
+-------------------------
+--Find the list number of players in each role;
+SELECT role, COUNT(*) FROM Player
+GROUP BY role;
+
+SELECT role, COUNT(*) FROM Player GROUP BY role HAVING COUNT(role)>=3;
+
+--
