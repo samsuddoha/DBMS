@@ -184,4 +184,24 @@ GROUP BY role;
 
 SELECT role, COUNT(*) FROM Player GROUP BY role HAVING COUNT(role)>=3;
 
---
+--------------------
+-----Practice------
+---Write SQL query for the following questions----
+----------------------------------
+/*
+1. Show only player name and role.
+2.  Show matches that are completed.
+3. Show players whose role is Batsman.
+4. Show venues by capacity (highest first).
+5. Show players by jersey number;
+6. Count total players.
+7. Find maximum stadium capacity.
+8. Find the details of stadium that has maximum capacity (***).
+9. Average umpire experience.
+10. Count players by role (Group By).
+11. Count teams in each tournament (Group By).
+12. Show roles having at least 2 players (Group by, having).
+13. Show players from team Tigers (***).
+14. Find which team played most matches.
+15. Find total runs scored by each player.
+*/
