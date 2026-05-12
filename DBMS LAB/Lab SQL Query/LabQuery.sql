@@ -205,3 +205,36 @@ SELECT role, COUNT(*) FROM Player GROUP BY role HAVING COUNT(role)>=3;
 14. Find which team played most matches.
 15. Find total runs scored by each player.
 */
+
+--------------------------
+---Last Lecture----------
+---12 May 26-----
+---------------------
+--joins
+
+--INNER JOIN
+SELECT Tournament.*, Organizer.* FROM Tournament INNER JOIN Organizer
+ON Tournament.organizer_id=Organizer.organizer_id;
+
+SELECT Tournament.tournament_name, Tournament.description, Tournament.format,
+ Organizer.organizer_name, Organizer.phone 
+ FROM Tournament INNER JOIN Organizer
+ON Tournament.organizer_id=Organizer.organizer_id;
+
+--traditional join
+SELECT Tournament.tournament_name, Tournament.description, Tournament.format,
+ Organizer.organizer_name, Organizer.phone FROM Tournament, Organizer
+WHERE Tournament.organizer_id=Organizer.organizer_id;
+
+--LEFT JOIN
+SELECT Tournament.*, Organizer.* FROM Tournament LEFT JOIN Organizer
+ON Tournament.organizer_id=Organizer.organizer_id;
+
+--RIGHT
+SELECT  Tournament.*, Organizer.* FROM  Tournament RIGHT JOIN Organizer
+ON Tournament.organizer_id=Organizer.organizer_id;
+
+
+--Q: write sql to join the tables team and player.
+/*Q: Show the following info of a player: player name, jersey number, playing role, 
+team name, coach name. /*
