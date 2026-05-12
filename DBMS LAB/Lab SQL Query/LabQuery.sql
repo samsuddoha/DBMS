@@ -197,13 +197,20 @@ SELECT role, COUNT(*) FROM Player GROUP BY role HAVING COUNT(role)>=3;
 6. Count total players.
 7. Find maximum stadium capacity.
 8. Find the details of stadium that has maximum capacity (***).
+
+    SELECT * FROM venue
+    WHERE capacity = (SELECT MAX(capacity) FROM venue);
+
+
+    SELECT MAX(capacity) FROM venue;
+
 9. Average umpire experience.
 10. Count players by role (Group By).
 11. Count teams in each tournament (Group By).
 12. Show roles having at least 2 players (Group by, having).
 13. Show players from team Tigers (***).
-14. Find which team played most matches.
-15. Find total runs scored by each player.
+14. Find which team played most matches (***).
+15. Find total runs scored by each player (***).
 */
 
 --------------------------
@@ -236,5 +243,55 @@ ON Tournament.organizer_id=Organizer.organizer_id;
 
 
 --Q: write sql to join the tables team and player.
+SELECT Team.*, Player.*
+FROM Team INNER JOIN Player
+ON Team.team_id=Player.team_id;
 /*Q: Show the following info of a player: player name, jersey number, playing role, 
-team name, coach name. /*
+team name, coach name. */
+
+SELECT Player.player_name, Player.jersey_no, Player.role, Team.team_name, Team.coach_name
+FROM Team INNER JOIN Player
+ON Team.team_id=Player.team_id;
+
+SELECT P.player_name, P.jersey_no, P.role, T.team_name, T.coach_name
+FROM Team as T INNER JOIN Player P
+ON T.team_id=P.team_id;
+
+--Find the name of coach of Player4;
+SELECT Player.player_name, Team.coach_name
+FROM Team INNER JOIN Player
+ON Team.team_id=Player.team_id
+WHERE Player.player_name='Player4';
+
+---
+SELECT Player.player_name, Team.coach_name
+FROM Team, Player
+WHERE Team.team_id=Player.team_id
+AND Player.player_name='Player4';
+
+--views
+
+CREATE VIEW Player_info AS
+SELECT Player.player_name, Player.jersey_no, Player.role, Team.team_name, Team.coach_name
+FROM Team INNER JOIN Player
+ON Team.team_id=Player.team_id;
+
+--Todays topic--
+--------------
+--joins
+--views
+--IN, BETWEEN
+
+--Sub queries
+--Find the details of stadium that has maximum capacity (***).
+
+    SELECT * FROM venue
+    WHERE capacity = (SELECT MAX(capacity) FROM venue);
+
+    --find the details of players whose bowling style is same as Player2;
+    SELECt * FROM Player
+    WHERE bowling_style=(SELECT bowling_style FROM PLayer WHERE player_name='Player2');
+
+ --find the details of players whose playing role is same as Player2 or Player3;
+    SELECT * FROM Player
+    WHERE role IN (SELECT role FROM player WHERE player_name='Player2' OR player_name='Player3');
