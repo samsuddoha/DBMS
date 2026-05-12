@@ -295,3 +295,85 @@ ON Team.team_id=Player.team_id;
  --find the details of players whose playing role is same as Player2 or Player3;
     SELECT * FROM Player
     WHERE role IN (SELECT role FROM player WHERE player_name='Player2' OR player_name='Player3');
+
+--------------------------------------------------------------------------
+--Practice Query on tms database for all topics (Basic to Advanced)-------
+--------------------------------------------------------------------------
+---Basic Level
+1. Write an SQL query to display all records from the Team table.
+2. Write an SQL query to display player name, role, and jersey number from the Player table.
+3.Write an SQL query to display all tournaments.
+4.Write an SQL query to display all players whose role is Batsman.
+5.Write an SQL query to display all matches whose status is Completed.
+6.Write an SQL query to display venues having capacity greater than 20,000.
+7. Write an SQL query to display umpires whose experience is greater than 5 years.
+8. Write an SQL query to display players ordered by jersey number in ascending order.
+9. Write an SQL query to display teams ordered alphabetically.
+10. Write an SQL query to display the first 5 players from the Player table.
+
+----Intermediate Level
+11. Write an SQL query to count the total number of players.
+12. Write an SQL query to count the total number of teams.
+13. Write an SQL query to find the highest stadium capacity.
+14. Write an SQL query to find the minimum umpire experience.
+15. Write an SQL query to find the average umpire experience.
+16. Write an SQL query to find the total runs scored in the Scorecard table.
+17. Write an SQL query to display players whose jersey number is between 10 and 15.
+18. Write an SQL query to display players whose name starts with P.
+19. Write an SQL query to display tournaments of format T20.
+20. Write an SQL query to display matches held after '2025-01-10'.
+
+----Group By and Having
+21. Write an SQL query to count the number of players in each role.
+22. Write an SQL query to count the number of teams in each tournament.
+23. Write an SQL query to display the total runs scored by each player.
+24. Write an SQL query to display the average runs of each player.
+25. Write an SQL query to display roles having at least 2 players.
+26. Write an SQL query to display teams having more than one player.
+27. Write an SQL query to display the number of matches played in each round type.
+28. Write an SQL query to display tournaments having more than 5 teams.
+
+---joins
+29. Write an SQL query to display player name with team name.
+30. Write an SQL query to display tournament name with organizer name.
+31. Write an SQL query to display match information with venue name.
+32. Write an SQL query to display team names participating in each match.
+33. Write an SQL query to display winner team of each match.
+34. Write an SQL query to display player name, team name, and tournament name.
+35. Write an SQL query to display match ID, venue name, and match date.
+36. Write an SQL query to display umpire names assigned to each match.
+37. Write an SQL query to display scorecard with player name.
+38. Write an SQL query to display points table with team name.
+39. Write an SQL query to display all players participating in Premier Cup.
+40. Write an SQL query to display all matches of Premier Cup.
+41. Write an SQL query to display all teams managed by organizer BCB.
+42. Write an SQL query to display all players of team Tigers.
+43. Write an SQL query to display the venue of the final match.
+44. Write an SQL query to display all umpires assigned to semi-final matches.
+45. Write an SQL query to display all players who played in the final match.
+
+--Sub queries
+46. Write an SQL query to display players belonging to team Tigers using subquery.
+47. Write an SQL query to display the venue having maximum capacity.
+48. Write an SQL query to display the player who scored the highest runs.
+49. Write an SQL query to display the team having the highest points.
+50. Write an SQL query to display tournaments organized by the organizer having ID = 1.
+51. Write an SQL query to display players whose runs are above average.
+52. Write an SQL query to display matches played in the largest stadium.
+
+--Advanced Level
+53. Write an SQL query to display the top 3 run scorers.
+54. Write an SQL query to display the team that won the maximum number of matches.
+55. Write an SQL query to display the team eliminated in quarter-final matches.
+56. Write an SQL query to display all undefeated teams.
+57. Write an SQL query to display teams that reached the final.
+58. Write an SQL query to display players who scored more than 50 runs.
+59. Write an SQL query to display the most experienced umpire.
+60. Write an SQL query to display the tournament champion.
+61. Write an SQL query to calculate the win percentage of each team.
+62. Write an SQL query to display the player with the highest total runs.
+63. Write an SQL query to display teams that played more than 3 matches.
+64. Write an SQL query to display matches where the winning margin exceeded a specified value.
+65. Write an SQL query to rank teams based on points.
+
+---------------------------
