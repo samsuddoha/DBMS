@@ -33,6 +33,15 @@
 |Mid Term (Lab)| 20% | 11th June | Designing and Implementing Database | [Demo Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Lab%20Test%20Demo%20Q.pdf)|
 |Final Exam| 30% | 14th June | SQL Query |  [Sample Q](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20B.pdf)|
 |Viva/Quiz| 10% | 14th June | SQL | N/A|
-|Project| 20% | - | Choose an idea that is suitable for DBMS project | [Project Repot Demo](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Project/Project%20Report%20Demo.pdf)|
+|Project| 20% | 21st June 26 | Look Below | - |
+
+### Project Timeline
+---
+
+|Tasks| Marks| deadline | Instructions | Resources|
+|-----------|-------|-----------------|------------|---------|
+|Project Idea| - | 25 May 26 | Form a team with 3/4 members </br> & submit your idea | [Idea Submission Form](https://docs.google.com/spreadsheets/d/1dkeD_3RAzapPIBUlxiXkH6qcnlkmlDA23JIHegDcV0Y/edit?usp=sharing)|
+|Project Proposal Submission| - |  - | - | N/A|
+|Final Work & Presentation| 20% | 21 June 26 | TBA | TBA|
 
 
