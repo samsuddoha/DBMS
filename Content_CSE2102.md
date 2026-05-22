@@ -28,14 +28,11 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|<mark>Lab Test</mark>| 10%| 19 April (9.00am-10.00am) <br> [Room: 6613] | Implementing DB using phyMyadmin | [Sample Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Sample%20Question.pdf)|
+|Lab Test| 10%| 19 April (9.00am-10.00am) <br> [Room: 6613] | Implementing DB using phyMyadmin | [Sample Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Sample%20Question.pdf)|
 |Homework 1| -| - | Solving SQL | [Problem Set](https://github.com/samsuddoha/DBMS/tree/main/DBMS%20LAB/Lecture/Homework)|
-|Mid Term 1| 20%| -| Lecture 2 to 8 | <ul><li>Written Quiz (MCQ & Short Question)</li> <li>Lab (Solving SQL Query)</li>|
-|Assignment| 5% | TBA | TBA | TBA|
-|Lab Test 2| 10% | - | Designing and Implementing Database | [Demo Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Lab%20Test%20Demo%20Q.pdf)|
-|Mid Term 2| - | TBA | TBA | TBA|
-|Final Exam| 30% | - | All Lectures | Sample Questions: [Part A](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20A%20-.pdf) & [Part B](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20B.pdf)|
-|Viva| 10% | - | All Lectures | N/A|
+|Mid Term (Lab)| 20% | 11th June | Designing and Implementing Database | [Demo Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Lab%20Test%20Demo%20Q.pdf)|
+|Final Exam| 30% | 14th June | SQL Query | Sample Questions: [Part A](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20A%20-.pdf) & [Part B](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20B.pdf)|
+|Viva/Quiz| 10% | 14th June | SQL | N/A|
 |Project| 20% | - | Choose an idea that is suitable for DBMS project | [Project Repot Demo](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Project/Project%20Report%20Demo.pdf)|
 
 
