@@ -24,7 +24,7 @@
 
 |Exam types| Marks| Exam Date & Time | Syllabus | Resources|
 |-----------|-------|-----------------|------------|---------|
-|Mid Exam + CT| 30%| - | Lecture 1, 2, 3, 4 | N/A|
+|Mid Exam + CT| 30%| 11th June | Lecture 1, 2, 3, 4 | [Sample Q](https://github.com/samsuddoha/DBMS/blob/main/Sample%20Questions/CSE-2101%20Mideterm%201.pdf)|
 |Assignment| 5% | - | Database Design | -|
 |Attendance| 5% | - | - | - |
 |**Final Exam**| 60% | 1st Week of July | All lectures & Books | [Sample Questions](https://github.com/samsuddoha/DBMS/tree/main/Sample%20Questions)|
