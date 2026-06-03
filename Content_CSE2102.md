@@ -42,6 +42,6 @@
 |-----------|-------|-----------------|------------|---------|
 |Project Idea| - | 25 May 26 | Form a team with 3/4 members </br> & submit your idea | [Idea Submission Form](https://docs.google.com/spreadsheets/d/1dkeD_3RAzapPIBUlxiXkH6qcnlkmlDA23JIHegDcV0Y/edit?usp=sharing)|
 |Project Proposal Submission| - |  - | - | N/A|
-|Final Work & Presentation| 20% | 21 June 26 | TBA | TBA|
+|Final Work & Presentation| 20% | 21 June 26 (9.00am-4.00pm), MC Lab | TBA | TBA|
 
 
