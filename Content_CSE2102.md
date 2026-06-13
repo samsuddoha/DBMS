@@ -31,8 +31,8 @@
 |Lab Test| 10%| 19 April (9.00am-10.00am) <br> [Room: 6613] | Implementing DB using phyMyadmin | [Sample Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Sample%20Question.pdf)|
 |Homework 1| -| - | Solving SQL | [Problem Set](https://github.com/samsuddoha/DBMS/tree/main/DBMS%20LAB/Lecture/Homework)|
 |Mid Term (Lab)| 20% | 11th June (11.00am-2.00pm),<br> Room: 6613 | Designing and Implementing Database | [Demo Question](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Lab%20Test%20Demo%20Q.pdf)|
-|Final Exam| 30% | 14th June (10.00am-1.00pm),<br> Room: 6613 | SQL Query |  [Sample Q](https://github.com/samsuddoha/DBMS/blob/main/DBMS%20LAB/Exam%20Q/Final%20Exam_PART%20B.pdf)|
-|Viva/Quiz| 10% | 14th June (Quiz Exam, 10 minutes) | SQL (MCQ, Short Questions) | |
+|Final Exam| 30% | 14th June (10.00am-1.00pm),<br> Room: 6613 | SQL Query |  [Sample Q](https://github.com/samsuddoha/DBMS/tree/main/Sample%20Questions/LabFinalQ)|
+|Viva/Quiz| 10% | 14th June (Quiz Exam, 10 minutes) | SQL (MCQ, Short Questions) | [Sample Q](https://github.com/samsuddoha/DBMS/tree/main/Sample%20Questions/LabFinalQ) |
 |Project| 20% | 21st June 26 (9.00am-4.00pm) | Look Below | - |
 
 ### Project Timeline
